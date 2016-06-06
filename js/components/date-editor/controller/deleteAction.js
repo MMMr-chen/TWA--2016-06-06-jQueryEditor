@@ -1,0 +1,2 @@
+function deleteAction(value){
+}
